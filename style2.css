@@ -1,0 +1,18 @@
+
+ .bg_1 { 
+      background-color: #1abc9c; /* for Green */
+      color: #ffffff;
+  }
+  .bg_2 { 
+      background-color: #474e5d; /* for Dark Blue */
+      color: #ffffff;
+  }
+  .bg_3 { 
+      background-color: #ffffff; /* for  White */
+      color: black
+  }
+  .bg_4 { 
+      background-color: #2f2f2f; /* for Black Gray */
+      color: #fff;
+  }
+  .imtext{color:white;bolder:1px;border-color:black;background:black !important}
